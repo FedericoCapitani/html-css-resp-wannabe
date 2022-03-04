@@ -102,6 +102,9 @@ img {
     width: 50%;
     height: auto;
   }
+  #steps{
+    background-color: #ffffff;
+  }
   #steps .row>.left,
   #steps .row>.central,
   #steps .row>.right {
